@@ -1,10 +1,10 @@
 # Cookie Box Calculator Program
 
 ## Licence
-This is a summary from chat gpt. It is also an assignment from Queens University that I am not taking credit for or plagerising.
+This is an assignment from Queens University that I am not taking credit for or plagerising. The file presented was my experience with C, and completing this assignment. 
 
 ## Overview
-This program was developed for a local bakery to help them calculate the cost and pricing of their cookie boxes based on the box dimensions they provide. The program computes the manufacturing cost of the box, the number of cookies that can fit inside, the cost of ingredients for the cookies, and the total cost, including a recommended sale price with a 10% profit margin.
+This program was developed for a bakery to help them calculate the cost and pricing of their cookie boxes based on the box dimensions they provide. The program computes the manufacturing cost of the box, the number of cookies that can fit inside, the cost of ingredients for the cookies, and the total cost, including a recommended sale price with a 10% profit margin.
 
 ## Features
 Input Dimensions: The user enters the length, width, and height of the cookie box in centimeters.
