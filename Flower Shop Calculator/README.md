@@ -1,4 +1,4 @@
-#Flower Shop Interactive Program
+# Flower Shop Interactive Program
 This C program simulates an interactive customer support system for a flower shop. 
 
 ## The program has 3 main functions
