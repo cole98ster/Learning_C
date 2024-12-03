@@ -1,6 +1,9 @@
 # Population Dynamics Experiment
 This C program models the dynamics of a population through two experimental scenarios involving growth and decline rates. It provides insights into population behavior over time based on user-defined initial conditions.
 
+## Licence
+This is an assignment from Queens University that I am not taking credit for or plagiarizing. The file presented was my experience with C, and completing this assignment. 
+
 ## Features
 ### Initial Population Input:
 User sets an initial population value between 100 and 500.
