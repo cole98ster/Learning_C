@@ -1,7 +1,7 @@
 # Learning C Programming for Engineering Applications
 
 ## Licence
-Some files contained are assignments from Queens University that I am not taking credit for or plagerising. The file presented was my experience with C, and completing this assignment. The description of the project was not attached to protects other students from copying the assignment code
+Some files contained are assignments from Queens University that I am not taking credit for or plagiarizing. The file presented was my experience with C, and completing this assignment. The description of the project was not attached to protects other students from copying the assignment code
 
 ## Objective:
 To develop foundational skills in C programming and apply them to solve engineering problems effectively.
